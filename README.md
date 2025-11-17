@@ -1,6 +1,6 @@
 # Hi, I'm Ahsan
 ## 🌟 Welcome to My GitHub Profile!
-Hi there! 👋 I'm Ahsan Wasim, a passionate final-year CS student with a knack for learning and exploring the realms of DevOps, cloud-native technologies, and cutting-edge software solutions. 🚀
+Hi there! 👋 I'm Ahsan Wasim, a passionate SWE with a knack for learning and exploring the realms of DevOps, cloud-native technologies, and cutting-edge software solutions. 🚀
 
 ## Insights
 
